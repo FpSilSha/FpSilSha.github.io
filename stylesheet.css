@@ -1,0 +1,107 @@
+
+
+.bdspClass {
+ 
+background-color:#ff471a ;
+background-image: linear-gradient(45deg, #ff3300, #ff9933);
+background-repeat: no-repeat;
+padding-top: 45px;
+	
+
+}
+
+.txtcsClass{
+color: white;
+font-size: 22px;
+}
+.imgbrdrrndClass
+{
+
+	border-radius: 20px;
+	border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+}
+.txtclroClass
+{
+	color:orange;
+}
+.dcrptvClass
+{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.pad {
+padding-top:150px;
+
+}
+
+.imgwbord
+{
+	border-style: solid;
+	border-color: white;
+	border-width: 15px;
+}
+
+.imggoldbord
+{
+	border-style: solid;
+	border-color: #cca300;
+	border-width: 15px;
+}
+.imgrbbord
+{
+	border-style: solid;
+	border-color: royalblue;
+	border-width: 15px;
+}
+.txtbg
+{
+	background-color: lightblue;
+	
+}
+
+.hrtrct
+{
+	max-height: 100%
+}
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), url("images/swdev.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.hero-text button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 10px 25px;
+  color: black;
+  background-color: #ddd;
+  text-align: center;
+  cursor: pointer;
+}
+
+.hero-text button:hover {
+  background-color: #555;
+  color: white;
+}
+.readable
+{
+	font-size: 14px;
+	font-weight: bold;
+}
